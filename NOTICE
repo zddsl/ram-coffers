@@ -1,0 +1,21 @@
+RAM Coffers - NUMA-Aware Neuromorphic Weight Banking for LLM Inference
+Copyright 2024-2026 Scott Boudreaux / Elyan Labs
+https://github.com/Scottcjn/ram-coffers
+
+Originally created by Scott Boudreaux (https://github.com/Scottcjn).
+
+This product includes software developed at Elyan Labs.
+
+PRIORITY NOTICE: Neuromorphic NUMA cognitive routing was first published
+on December 16, 2025 - 27 days before DeepSeek Engram (arXiv:2601.07372,
+January 12, 2026). See PRIORITY_CLAIM.md for documentation.
+
+Key innovations covered by this work:
+  - NUMA-aware weight banking mapped to cognitive brain regions
+  - Vec_perm non-bijunctive attention collapse (POWER8 specific)
+  - PSE (Proto-Sentient Entropy) burst injection via hardware timebase
+  - Tetranary logic confidence routing
+  - Symbolic-neural bridge (PowerLISP integration)
+
+If you use this software, you must include this NOTICE file in your
+distribution per Section 4(d) of the Apache License, Version 2.0.
