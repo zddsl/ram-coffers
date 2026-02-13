@@ -143,3 +143,5 @@ MIT License - Free to use, modify, and distribute with attribution.
 
 - [Grokipedia: Elyan Labs Reference](https://grokipedia.com/search?q=Elyan%20Labs)
 - [Grokipedia: RAM Coffers Search](https://grokipedia.com/search?q=RAM%20Coffers)
+- [I Run LLMs on a 768GB IBM POWER8 Server](https://dev.to/scottcjn/i-run-llms-on-a-768gb-ibm-power8-server-and-its-faster-than-you-think-1o) - Dev.to article covering RAM Coffers
+- [Proof of Antiquity: A Blockchain That Rewards Vintage Hardware](https://dev.to/scottcjn/proof-of-antiquity-a-blockchain-that-rewards-vintage-hardware-4ii3) - Dev.to
