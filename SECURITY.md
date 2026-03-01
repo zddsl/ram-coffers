@@ -2,30 +2,28 @@
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| Latest  | :white_check_mark: |
+Currently supported versions:
+- Latest release
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it by emailing:
-
-**scott@elyanlabs.ai**
+If you discover a security vulnerability, please send an email to: scott@elyanlabs.ai
 
 Please include:
 - Description of the vulnerability
 - Steps to reproduce
 - Potential impact
-- Suggested fix (if any)
 
-We will respond within 48 hours and work with you to address the issue.
+We will:
+- Acknowledge receipt within 48 hours
+- Provide regular updates on our progress
+- Release a fix within a reasonable timeframe
 
 ## Security Best Practices
 
-When using this project:
 - Keep dependencies up to date
-- Follow secure coding practices
-- Review code changes carefully
-- Report suspicious activity
+- Use environment variables for sensitive data
+- Never commit secrets or credentials
+- Review dependencies for known vulnerabilities
 
-Thank you for helping keep this project secure!
+Thank you for helping keep BoTTube secure!
